@@ -1,0 +1,9 @@
+- Jogo de plataforma
+- Macaco que pula de galho em galho em uma árvore gigante
+- Cenário: Floresta
+- O jogo vai ficando mais rápido, e com plataformas menores, verticalmente, que caem ao longo do tempo
+- Como elemento de equilíbrio, podemos adicionar alguma forma de *"power-up"* que pode fazer o macaco pular 2 vezes.
+- Conforme o macaco sobe, nós ganhamos pontos.
+- Se o macaco cair, bater embaixo da plataforma ou colidir com uma águia, perdemos o jogo.
+- De vez em quando aparecem bananas que faz o macaco ganhar mais pontos.
+- Personagens: Macaco e águias, que servem de obstáculo.
